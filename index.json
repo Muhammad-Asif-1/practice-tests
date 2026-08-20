@@ -1,3 +1,26 @@
 {
-  "tests": []
+  "tests": [
+    {
+      "slug": "test1",
+      "title": "Test 1",
+      "subject": "CFAP 06 — AUDIT, ASSURANCE AND DATA",
+      "questions": 3,
+      "marks": 37.0,
+      "minutes": 65,
+      "file": "test1.zip",
+      "sha256": "66cca79aa97bae1b83e76710e859f171984909138fc8f0505f21b647d6a26595",
+      "size": 124735
+    },
+    {
+      "slug": "test2",
+      "title": "Test 2",
+      "subject": "CFAP 06 — AUDIT, ASSURANCE AND DATA",
+      "questions": 5,
+      "marks": 50.0,
+      "minutes": 90,
+      "file": "test2.zip",
+      "sha256": "78d066baf57539dd79f31d0292180e1ee9899f167ee7f7f3531729be1ea1fb46",
+      "size": 206136
+    }
+  ]
 }
