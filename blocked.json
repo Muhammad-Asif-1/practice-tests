@@ -1,0 +1,6 @@
+{
+  "_comment": "Withdrawn logins. The roll numbers are one-way scrambled, so this file names nobody. Built by build_roster.py.",
+  "blocked": [],
+  "_offline": "Copied from config.json -> checkin.allow_when_offline. FALSE means no internet, no test. Changing it here and publishing reaches every student without a fresh copy of the app.",
+  "allow_when_offline": false
+}
