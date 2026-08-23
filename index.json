@@ -1,3 +1,28 @@
 {
-  "tests": []
+  "tests": [
+    {
+      "slug": "cfap2-test1",
+      "title": "Test 1",
+      "subject": "CFAP 02 Corporate Laws and Governance",
+      "subject_key": "cfap2",
+      "questions": 5,
+      "marks": 45.0,
+      "minutes": 80,
+      "file": "cfap2-test1.zip",
+      "sha256": "96843f1605376be64cdc021f797bd77f07f90e265d512a410d075843b65c449a",
+      "size": 242140
+    },
+    {
+      "slug": "cfap6-test1",
+      "title": "Test 1",
+      "subject": "CFAP 6 - Audit, Assurance and Data",
+      "subject_key": "cfap6",
+      "questions": 3,
+      "marks": 37.0,
+      "minutes": 65,
+      "file": "cfap6-test1.zip",
+      "sha256": "62971fda589195e2fe70936470efa06ca79b69d5e5f7715a81755b72d43a3cb3",
+      "size": 128471
+    }
+  ]
 }
