@@ -23,6 +23,18 @@
       "file": "cfap6-test1.zip",
       "sha256": "62971fda589195e2fe70936470efa06ca79b69d5e5f7715a81755b72d43a3cb3",
       "size": 128471
+    },
+    {
+      "slug": "cfap6-test2",
+      "title": "Test 2",
+      "subject": "CFAP 6 - Audit, Assurance and Data",
+      "subject_key": "cfap6",
+      "questions": 3,
+      "marks": 31.0,
+      "minutes": 55,
+      "file": "cfap6-test2.zip",
+      "sha256": "c2f092ea14819648e83181ec696f20bddcad41546337359648caf10e8a8ebe98",
+      "size": 224294
     }
   ]
 }
