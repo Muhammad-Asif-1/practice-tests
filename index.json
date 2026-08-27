@@ -59,6 +59,54 @@
       "file": "cfap6auditassuranceanddataautumn2026-termtest2.zip",
       "sha256": "f6521ca82c15e939107db89d8ea543b3ff18f0b22d348d5b44349d4a40236cc1",
       "size": 192066
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-mock1",
+      "title": "Mock 1",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 6,
+      "marks": 100.0,
+      "minutes": 180,
+      "file": "cfap6auditassuranceanddatawinter2026-mock1.zip",
+      "sha256": "b7cf886177c98c833de871d7748baec13bddf70bab111f9e09ae74c9dcd3803c",
+      "size": 188791
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-mock2",
+      "title": "Mock 2",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 6,
+      "marks": 100.0,
+      "minutes": 180,
+      "file": "cfap6auditassuranceanddatawinter2026-mock2.zip",
+      "sha256": "3859bed5ef8774eb4c3373490513f32f60185e660a689e0ea035ce11acfa716e",
+      "size": 189551
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-termtest1",
+      "title": "Term Test 1",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 5,
+      "marks": 68.0,
+      "minutes": 120,
+      "file": "cfap6auditassuranceanddatawinter2026-termtest1.zip",
+      "sha256": "7b293044d781ef30b1486a2db9b1bf459c84c1de53fda8ac8e56edc61026c92a",
+      "size": 190537
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-termtest2",
+      "title": "Term Test 2",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 6,
+      "marks": 66.0,
+      "minutes": 120,
+      "file": "cfap6auditassuranceanddatawinter2026-termtest2.zip",
+      "sha256": "a832a3741df8a71fdcd43ce6796cdf53ddc681566ebc56d0087182c88dd430dc",
+      "size": 192056
     }
   ]
 }
