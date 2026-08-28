@@ -1,18 +1,6 @@
 {
   "tests": [
     {
-      "slug": "cfap6-termtest3",
-      "title": "Term Test 3",
-      "subject": "CFAP 06",
-      "subject_key": "cfap6",
-      "questions": 6,
-      "marks": 66.0,
-      "minutes": 120,
-      "file": "cfap6-termtest3.zip",
-      "sha256": "cf4412ed0f1b29018e19fbb4e2be438c4502e5f1581036708d49e38647cf6aa9",
-      "size": 191883
-    },
-    {
       "slug": "cfap2-test1",
       "title": "Test 1",
       "subject": "CFAP 02 Corporate Laws and Governance",
@@ -86,6 +74,7 @@
     }
   ],
   "withdrawn": [
+    "cfap6-termtest3",
     "cfap6auditassuranceanddatawinter2026-mock1",
     "cfap6auditassuranceanddatawinter2026-mock2",
     "cfap6auditassuranceanddatawinter2026-termtest1",
