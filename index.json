@@ -61,6 +61,18 @@
       "size": 192066
     },
     {
+      "slug": "cfap6auditassuranceanddatawinter2026-termtest3",
+      "title": "Term Test 3",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 6,
+      "marks": 66.0,
+      "minutes": 120,
+      "file": "cfap6auditassuranceanddatawinter2026-termtest3.zip",
+      "sha256": "2c8596a89b2da714d1e73c1a2e344267d262d470b2e7db43d61ce3fe61762f65",
+      "size": 192056
+    },
+    {
       "slug": "cfap6auditassuranceanddatawinter2026-test1",
       "title": "Test 1",
       "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
