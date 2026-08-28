@@ -71,6 +71,18 @@
       "file": "cfap6auditassuranceanddatawinter2026-test1.zip",
       "sha256": "bb5e7549ac67a5de30d69435f7e38d5cac56d6dd93b3090f0d28b0e6eea78150",
       "size": 134232
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-test2",
+      "title": "Test 2",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 5,
+      "marks": 50.0,
+      "minutes": 90,
+      "file": "cfap6auditassuranceanddatawinter2026-test2.zip",
+      "sha256": "f0dbc8803d3abbf33ab75fe086727fc7a89109e6408776217e91061042b62259",
+      "size": 206502
     }
   ],
   "withdrawn": [
