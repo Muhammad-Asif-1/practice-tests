@@ -9,8 +9,8 @@
       "marks": 45.0,
       "minutes": 80,
       "file": "cfap2-test1.zip",
-      "sha256": "96843f1605376be64cdc021f797bd77f07f90e265d512a410d075843b65c449a",
-      "size": 242140
+      "sha256": "7b88459018b7c08f04930c8eb846c447d34f6f99e293ee82a8d3c2c0f066439a",
+      "size": 246138
     },
     {
       "slug": "cfap6auditassuranceanddataautumn2026-mock1",
@@ -21,8 +21,8 @@
       "marks": 100.0,
       "minutes": 180,
       "file": "cfap6auditassuranceanddataautumn2026-mock1.zip",
-      "sha256": "ff6e2d8fd74c33d1546ab11eee24f7b9a2a3077928ed3fdd9f61d580eb430faa",
-      "size": 188804
+      "sha256": "629ffc1774a14a89be8e7e1b282ff3db646ae233b27cec3ee85b9070985d7ba6",
+      "size": 193583
     },
     {
       "slug": "cfap6auditassuranceanddataautumn2026-mock2",
@@ -33,8 +33,8 @@
       "marks": 100.0,
       "minutes": 180,
       "file": "cfap6auditassuranceanddataautumn2026-mock2.zip",
-      "sha256": "724cb8a62258a0071a8f27bffb0a3a8ca31a4d97e5cc01751dd9af494146a292",
-      "size": 189567
+      "sha256": "146fdde8145c2c2085ff70f0ec51478f3fa0d547e4281b2d4d97376d0b50d89f",
+      "size": 194345
     },
     {
       "slug": "cfap6auditassuranceanddataautumn2026-termtest1",
@@ -45,8 +45,8 @@
       "marks": 68.0,
       "minutes": 120,
       "file": "cfap6auditassuranceanddataautumn2026-termtest1.zip",
-      "sha256": "84db5a482fb14d8f2dc509c18acb050e668fc7e3063a38f5481146eb7ab1a08c",
-      "size": 190549
+      "sha256": "63c688ca3d2c89d588de9cf9dac5cd9ed8929741537c44bbf33ffc63ffc41ae4",
+      "size": 194521
     },
     {
       "slug": "cfap6auditassuranceanddataautumn2026-termtest2",
@@ -57,8 +57,8 @@
       "marks": 66.0,
       "minutes": 120,
       "file": "cfap6auditassuranceanddataautumn2026-termtest2.zip",
-      "sha256": "f6521ca82c15e939107db89d8ea543b3ff18f0b22d348d5b44349d4a40236cc1",
-      "size": 192066
+      "sha256": "6b3277681932997b04925d0b87d31d057f7930c114553fb5dd96281afa3adff9",
+      "size": 196835
     },
     {
       "slug": "cfap6auditassuranceanddatawinter2026-test1",
@@ -69,20 +69,8 @@
       "marks": 25.0,
       "minutes": 45,
       "file": "cfap6auditassuranceanddatawinter2026-test1.zip",
-      "sha256": "bb5e7549ac67a5de30d69435f7e38d5cac56d6dd93b3090f0d28b0e6eea78150",
-      "size": 134232
-    },
-    {
-      "slug": "cfap6auditassuranceanddatawinter2026-testx",
-      "title": "Test X",
-      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
-      "subject_key": "cfap6auditassuranceanddatawinter2026",
-      "questions": 4,
-      "marks": 25.0,
-      "minutes": 45,
-      "file": "cfap6auditassuranceanddatawinter2026-testx.zip",
-      "sha256": "ee6e9fdef1d7fdfcea55cd648becff5b4c7138e442ca5597cab9fafc22453a9d",
-      "size": 130736
+      "sha256": "6faaff7291f49c568c1d3d141111a6643f8b7bfb7258708929fee0416834a6ec",
+      "size": 137443
     }
   ],
   "withdrawn": [
@@ -97,6 +85,7 @@
     "cfap6auditassuranceanddatawinter2026-test5",
     "cfap6auditassuranceanddatawinter2026-test6",
     "cfap6auditassuranceanddatawinter2026-test7",
-    "cfap6auditassuranceanddatawinter2026-test8"
+    "cfap6auditassuranceanddatawinter2026-test8",
+    "cfap6auditassuranceanddatawinter2026-testx"
   ]
 }
