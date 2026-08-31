@@ -13,6 +13,18 @@
       "size": 246138
     },
     {
+      "slug": "cfap2-test3",
+      "title": "Test 3",
+      "subject": "CFAP 02 Corporate Laws and Governance",
+      "subject_key": "cfap2",
+      "questions": 1,
+      "marks": 1.0,
+      "minutes": 0,
+      "file": "cfap2-test3.zip",
+      "sha256": "da7aaf4bd1061960b3f52a46258586e197e21b609e053a75000cb321f6b49dac",
+      "size": 138201
+    },
+    {
       "slug": "cfap6auditassuranceanddataautumn2026-mock1",
       "title": "Mock 1",
       "subject": "CFAP 06 Audit Assurance and Data, Autumn 2026",
