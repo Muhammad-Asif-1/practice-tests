@@ -238,3 +238,38 @@ In progress right now. Compare with `Ran 3 shell commands` (past tense, finished
 - "Do my request first." — if you do not want your task queued behind another.
 - "Why did `fix_layout.py` delete them?" — asking for the reason behind any finding
   is always fair, and answers come with file and line references.
+
+## 7. Pack vs. Gate
+
+Two words describing what a pipeline step *does*.
+
+**Pack** — bundle many separate pieces into one distributable file. An *assembling*
+step; it produces something and does not judge quality.
+
+- `npm pack` → one `.tgz`; git packfiles → many objects in one `.pack`
+- In this repo: each test is packed into a `.zip`, recorded in `index.json` with its
+  `sha256` and `size`
+- In a book-build: gathering chapters, images and metadata into the final output
+
+**Gate** — a checkpoint deciding whether work may continue. A *judging* step; it
+produces a verdict, not a file. From the physical metaphor: closed until conditions
+are met.
+
+- A "quality gate": the build fails unless coverage ≥ 80%
+- In CI, a **gating** check blocks the merge; a **non-gating** check only reports
+- As a verb: "gate on X" = make X a precondition. "Availability is gated" = only if
+  you qualify. "Ungated" = anyone may proceed
+
+| | Pack | Gate |
+|---|---|---|
+| Purpose | assemble the output | decide whether it may pass |
+| Produces | a file / bundle | a verdict (pass / fail) |
+| On trouble | errors — cannot build | blocks — pipeline stops |
+| Position | end of the pipeline | between stages |
+| Question | "what goes in?" | "is this good enough to go on?" |
+
+**Why it matters for pass/fail reporting:** gate instructions fail loudly and often —
+that is their purpose, so a high failure count is normal and those rows carry the
+useful "reason" and "solution" text. Pack instructions rarely fail countably; they
+either build or crash, so 0 failures means "never recorded as violated", not
+"perfectly followed".
