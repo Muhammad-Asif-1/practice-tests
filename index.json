@@ -83,6 +83,42 @@
       "file": "cfap6auditassuranceanddatawinter2026-test1.zip",
       "sha256": "570de89f280454cac192582b63aa6c2f4680c6c37f25b40d9219a92e76723a22",
       "size": 144176
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-test2",
+      "title": "Test 2",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 5,
+      "marks": 66.0,
+      "minutes": 120,
+      "file": "cfap6auditassuranceanddatawinter2026-test2.zip",
+      "sha256": "6e344f38d3b260047ccd9d061358f5af4355bb6a721bf9c46817ef843c45f475",
+      "size": 176793
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-test3",
+      "title": "Test 3",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 5,
+      "marks": 66.0,
+      "minutes": 120,
+      "file": "cfap6auditassuranceanddatawinter2026-test3.zip",
+      "sha256": "7198df3bb9f3e998c2018ca10bc204c7eb79224d8e17c9579cd4037424ef8abf",
+      "size": 171259
+    },
+    {
+      "slug": "cfap6auditassuranceanddatawinter2026-test4",
+      "title": "Test 4",
+      "subject": "CFAP 06 Audit Assurance and Data, Winter 2026",
+      "subject_key": "cfap6auditassuranceanddatawinter2026",
+      "questions": 4,
+      "marks": 66.0,
+      "minutes": 120,
+      "file": "cfap6auditassuranceanddatawinter2026-test4.zip",
+      "sha256": "1b1882a3adb199fa0789c12d5b3721d0152383ea20762793c10695062a42c070",
+      "size": 170605
     }
   ],
   "withdrawn": [
@@ -93,8 +129,6 @@
     "cfap6auditassuranceanddatawinter2026-termtest1",
     "cfap6auditassuranceanddatawinter2026-termtest2",
     "cfap6auditassuranceanddatawinter2026-termtest3",
-    "cfap6auditassuranceanddatawinter2026-test2",
-    "cfap6auditassuranceanddatawinter2026-test4",
     "cfap6auditassuranceanddatawinter2026-test5",
     "cfap6auditassuranceanddatawinter2026-test6",
     "cfap6auditassuranceanddatawinter2026-test7",
